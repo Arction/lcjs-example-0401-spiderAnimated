@@ -60,6 +60,6 @@ Direct developer email support can be purchased through a [Support Plan][4] or b
 [3]: https://stackoverflow.com/questions/tagged/lightningchart
 [4]: https://www.arction.com/support-services/
 
-[SpiderChart]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.1/classes/spiderchart.html
-[SpiderSeries]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.1/classes/spiderseries.html
-[SpiderWebMode]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.1/enums/spiderwebmode.html
+[SpiderChart]: https://www.arction.com/lightningchart-js-api-documentation/v1.1.0/classes/spiderchart.html
+[SpiderSeries]: https://www.arction.com/lightningchart-js-api-documentation/v1.1.0/classes/spiderseries.html
+[SpiderWebMode]: https://www.arction.com/lightningchart-js-api-documentation/v1.1.0/enums/spiderwebmode.html
