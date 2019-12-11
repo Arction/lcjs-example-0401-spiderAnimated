@@ -1,4 +1,4 @@
-/**
+/*
  * LightningChartJS example that showcases a Spider (Radar) Chart with animated changing of values.
  */
 // Import LightningChartJS
