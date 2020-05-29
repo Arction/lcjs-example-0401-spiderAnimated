@@ -65,7 +65,7 @@ Direct developer email support can be purchased through a [Support Plan][4] or b
 © Arction Ltd 2009-2020. All rights reserved.
 
 
-[SpiderChart]: https://www.arction.com/lightningchart-js-api-documentation/v1.2.0/classes/spiderchart.html
-[SpiderWebMode]: https://www.arction.com/lightningchart-js-api-documentation/v1.2.0/enums/spiderwebmode.html
-[SpiderSeries]: https://www.arction.com/lightningchart-js-api-documentation/v1.2.0/classes/spiderseries.html
+[SpiderChart]: https://www.arction.com/lightningchart-js-api-documentation/v1.3.0/classes/spiderchart.html
+[SpiderWebMode]: https://www.arction.com/lightningchart-js-api-documentation/v1.3.0/enums/spiderwebmode.html
+[SpiderSeries]: https://www.arction.com/lightningchart-js-api-documentation/v1.3.0/classes/spiderseries.html
 
