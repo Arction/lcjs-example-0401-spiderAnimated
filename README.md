@@ -39,9 +39,9 @@ setInterval(() => {
 
 ## API Links
 
-* Spider chart: [SpiderChart]
-* mode: [SpiderWebMode]
-* Spider series: [SpiderSeries]
+* [Spider chart]
+* [mode]
+* [Spider series]
 
 
 ## Support
@@ -65,7 +65,7 @@ Direct developer email support can be purchased through a [Support Plan][4] or b
 © Arction Ltd 2009-2020. All rights reserved.
 
 
-[SpiderChart]: https://www.arction.com/lightningchart-js-api-documentation/v1.3.0/classes/spiderchart.html
-[SpiderWebMode]: https://www.arction.com/lightningchart-js-api-documentation/v1.3.0/enums/spiderwebmode.html
-[SpiderSeries]: https://www.arction.com/lightningchart-js-api-documentation/v1.3.0/classes/spiderseries.html
+[Spider chart]: https://www.arction.com/lightningchart-js-api-documentation/v2.0.0/classes/spiderchart.html
+[mode]: https://www.arction.com/lightningchart-js-api-documentation/v2.0.0/enums/spiderwebmode.html
+[Spider series]: https://www.arction.com/lightningchart-js-api-documentation/v2.0.0/classes/spiderseries.html
 
