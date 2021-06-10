@@ -1,6 +1,6 @@
-# Radar Animated
+# Animated JavaScript Radar Chart
 
-![Radar Animated](spiderAnimated.png)
+![Animated JavaScript Radar Chart](spiderAnimated.png)
 
 This demo application belongs to the set of examples for LightningChart JS, data visualization library for JavaScript.
 
