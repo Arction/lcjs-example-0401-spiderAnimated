@@ -13,7 +13,7 @@ const {
 
 // Create a circular spider chart and add a series to it.
 const chart = lightningChart().Spider({
-    // theme: Themes.dark 
+    // theme: Themes.darkGold 
 })
     .setTitle('Animated Radar Chart')
     .setAxisInterval(100)
