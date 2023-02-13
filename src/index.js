@@ -5,16 +5,13 @@
 const lcjs = require('@arction/lcjs')
 
 // Extract required parts from LightningChartJS.
-const {
-    lightningChart,
-    SpiderWebMode,
-    Themes
-} = lcjs
+const { lightningChart, SpiderWebMode, Themes } = lcjs
 
 // Create a circular spider chart and add a series to it.
-const chart = lightningChart().Spider({
-    // theme: Themes.darkGold 
-})
+const chart = lightningChart()
+    .Spider({
+        // theme: Themes.darkGold
+    })
     .setTitle('Animated Radar Chart')
     .setAxisInterval(100)
     // Configure spider to be circular (like a traditional Radar Chart).
@@ -28,7 +25,7 @@ series.addPoints(
     { axis: categories[1], value: 100 },
     { axis: categories[2], value: 100 },
     { axis: categories[3], value: 100 },
-    { axis: categories[4], value: 100 }
+    { axis: categories[4], value: 100 },
 )
 
 // Setup randomization of series values at regular intervals.
