@@ -10,7 +10,7 @@ const { lightningChart, SpiderWebMode, Themes } = lcjs
 // Create a circular spider chart and add a series to it.
 const chart = lightningChart()
     .Spider({
-        // theme: Themes.darkGold
+        theme: Themes[new URLSearchParams(window.location.search).get('theme') || 'darkGold'] || undefined,
     })
     .setTitle('Animated Radar Chart')
     .setAxisInterval(100)
