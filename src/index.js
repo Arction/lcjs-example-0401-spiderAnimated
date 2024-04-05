@@ -8,7 +8,9 @@ const lcjs = require('@arction/lcjs')
 const { lightningChart, SpiderWebMode, Themes } = lcjs
 
 // Create a circular spider chart and add a series to it.
-const chart = lightningChart()
+const chart = lightningChart({
+            resourcesBaseUrl: new URL(document.head.baseURI).origin + new URL(document.head.baseURI).pathname + 'resources/',
+        })
     .Spider({
         theme: Themes[new URLSearchParams(window.location.search).get('theme') || 'darkGold'] || undefined,
     })
