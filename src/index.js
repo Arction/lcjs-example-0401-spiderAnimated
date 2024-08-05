@@ -2,7 +2,7 @@
  * LightningChartJS example that showcases a Spider (Radar) Chart with animated changing of values.
  */
 // Import LightningChartJS
-const lcjs = require('@arction/lcjs')
+const lcjs = require('@lightningchart/lcjs')
 
 // Extract required parts from LightningChartJS.
 const { lightningChart, SpiderWebMode, Themes } = lcjs
